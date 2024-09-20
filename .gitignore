@@ -1,0 +1,14 @@
+# Project specific
+
+# Editor and IDE specific files
+/.idea/
+*.swp
+*.swo
+*.vscode/
+*.DS_Store
+*.sublime-workspace
+*.sublime-project
+
+# Environment configuration files
+/.env
+/.env.*
